@@ -2,7 +2,7 @@
 Streaming Dashboard
 
 
-A Power BI dashboard that visualizes the data for 2 streaming platforms: Netflix, Amazon Prime, and Disney+. There is an overall overview of the data and a breakdown of individual platform's data where the respective streaming platforms' themes are utilized to create the reports for each streaming platform.  The data for this project are taken from the below Kaggle links:
+A Power BI dashboard that visualizes the data for 3 streaming platforms: Netflix, Amazon Prime, and Disney+. The data is presented in an overall overview and in individual platforms where the respective streaming platforms' themes are utilized to create the reports for each streaming platform.  The data for this project are taken from the below Kaggle links:
 - [Netflix](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - [Amazon Prime](https://www.kaggle.com/datasets/shivamb/amazon-prime-movies-and-tv-shows)
 - [Disney+](https://www.kaggle.com/datasets/shivamb/disney-movies-and-tv-shows)
