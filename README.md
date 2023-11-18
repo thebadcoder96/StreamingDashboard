@@ -11,6 +11,8 @@ There is an uploaded ```.pbix``` which contains all the code/information and can
 
 You can also view the dashboard in a read-only mode by clicking on the images below or [clicking here.](https://app.powerbi.com/view?r=eyJrIjoiM2NkMmNmOWEtZTY3Zi00ZTM0LTk0MzYtMDA4ZGQ0NTEzOWQzIiwidCI6IjVkZjdiZmU4LWM2NmUtNDQ2NS05YTZiLTc2MzZmZDVjNmRkOCIsImMiOjZ9&pageName=ReportSection4da436b8fa9c90b0c93c)
 
+[![StreamingReport](https://github.com/thebadcoder96/StreamingDashboard/blob/main/Netflix.png)](https://app.powerbi.com/view?r=eyJrIjoiM2NkMmNmOWEtZTY3Zi00ZTM0LTk0MzYtMDA4ZGQ0NTEzOWQzIiwidCI6IjVkZjdiZmU4LWM2NmUtNDQ2NS05YTZiLTc2MzZmZDVjNmRkOCIsImMiOjZ9&pageName=ReportSection4da436b8fa9c90b0c93c)
+
 [![StreamingReport](https://github.com/thebadcoder96/StreamingDashboard/blob/main/Overall.png)](https://app.powerbi.com/view?r=eyJrIjoiM2NkMmNmOWEtZTY3Zi00ZTM0LTk0MzYtMDA4ZGQ0NTEzOWQzIiwidCI6IjVkZjdiZmU4LWM2NmUtNDQ2NS05YTZiLTc2MzZmZDVjNmRkOCIsImMiOjZ9&pageName=ReportSection4da436b8fa9c90b0c93c)
 
 [![StreamingReport](https://github.com/thebadcoder96/StreamingDashboard/blob/main/Amazon.png)](https://app.powerbi.com/view?r=eyJrIjoiM2NkMmNmOWEtZTY3Zi00ZTM0LTk0MzYtMDA4ZGQ0NTEzOWQzIiwidCI6IjVkZjdiZmU4LWM2NmUtNDQ2NS05YTZiLTc2MzZmZDVjNmRkOCIsImMiOjZ9&pageName=ReportSection4da436b8fa9c90b0c93c)
